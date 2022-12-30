@@ -1,0 +1,16 @@
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\bin\Debug\net5.0\BankingSystem_DesignPatterns.exe
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\bin\Debug\net5.0\BankingSystem_DesignPatterns.deps.json
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\bin\Debug\net5.0\BankingSystem_DesignPatterns.runtimeconfig.json
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\bin\Debug\net5.0\BankingSystem_DesignPatterns.runtimeconfig.dev.json
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\bin\Debug\net5.0\BankingSystem_DesignPatterns.dll
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\bin\Debug\net5.0\ref\BankingSystem_DesignPatterns.dll
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\bin\Debug\net5.0\BankingSystem_DesignPatterns.pdb
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\obj\Debug\net5.0\BankingSystem_DesignPatterns.csproj.AssemblyReference.cache
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\obj\Debug\net5.0\BankingSystem_DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\obj\Debug\net5.0\BankingSystem_DesignPatterns.AssemblyInfoInputs.cache
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\obj\Debug\net5.0\BankingSystem_DesignPatterns.AssemblyInfo.cs
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\obj\Debug\net5.0\BankingSystem_DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\obj\Debug\net5.0\BankingSystem_DesignPatterns.dll
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\obj\Debug\net5.0\ref\BankingSystem_DesignPatterns.dll
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\obj\Debug\net5.0\BankingSystem_DesignPatterns.pdb
+C:\Лина\BankingSystem_DesignPatterns\BankingSystem_DesignPatterns\obj\Debug\net5.0\BankingSystem_DesignPatterns.genruntimeconfig.cache
